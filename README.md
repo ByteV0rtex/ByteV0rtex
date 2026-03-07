@@ -1,9 +1,9 @@
 # Hi, I'm Byte! 👋
 
+## Open to collaborate
 📱 iOS Developer  
 🐍 Python • 🍎 Swift • JavaScript  
 ⚡ Interested in networking, automation, and new tech.
-# Open to collaborate
 
 ## 🚀 Current Projects
 - iOS apps with SwiftUI
